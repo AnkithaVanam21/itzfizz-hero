@@ -1,16 +1,70 @@
-# React + Vite
+# Scroll-Driven Hero Section Animation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a scroll-based animated hero section built as part of the Itzfizz Web Development Internship assignment.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+https://ankithavanam21.github.io/itzfizz-hero/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📂 GitHub Repository
+https://github.com/AnkithaVanam21/itzfizz-hero
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+- React (Vite)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+- Tailwind CSS
+
+
+- GSAP
+
+
+- ScrollTrigger
+
+
+- GitHub Pages (Deployment)
+
+---
+
+## ✨ Features
+
+- Smooth intro animation for headline
+
+
+- Staggered statistics animation
+
+
+- Scroll-driven car movement
+
+- Sticky hero section
+
+
+- Responsive layout
+
+
+- Optimized transform-based animations
+
+---
+
+## 📦 Installation (Local Setup)
+
+
+npm install
+
+
+npm run dev
+
+
+
+
+🏗 Build for Production
+
+npm run build
+
+
+
+🌍 Deployment
+
+Deployed using GitHub Pages via gh-pages package.
